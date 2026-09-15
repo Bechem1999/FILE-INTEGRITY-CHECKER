@@ -138,6 +138,9 @@ Expected Hash
      COMPARE
       ↑
 Current Hash
+
+<img width="960" height="337" alt="intergrity status displayed" src="https://github.com/user-attachments/assets/f746b457-c2f1-41f2-9b6d-b28f13ea4067" />
+
 # Step 5: Integrity Decision
 
 If both hashes are identical:
@@ -162,6 +165,9 @@ echo "Unauthorized modification." >> test_files/test1.txt
 The integrity checker is then executed again using the original hash.
 
 The difference between the original and current hash demonstrates that even a small change in file contents produces a different hash.
+
+<img width="836" height="341" alt="file modification detected" src="https://github.com/user-attachments/assets/b2451b39-655f-480c-a021-1b7197079bfa" />
+
 
 # 🧪 Laboratory Environment
 
