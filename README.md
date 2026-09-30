@@ -1,4 +1,4 @@
-# 🔐 File Integrity Checker at SAM AI Tecnologies
+# 🔐 File Integrity Checker at SAM AI Technologies
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Domain-Cybersecurity-red)
